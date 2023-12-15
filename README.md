@@ -38,3 +38,4 @@ NOTE: The following instructions are for a Unix OS. For Windows instructions and
 - Run project
     - python manage.py runserver
 
+For anyone who wants to create the login pages, visit this website: https://dev.to/earthcomfy/creating-a-django-registration-login-app-part-i-1di5
